@@ -18,7 +18,7 @@ const testimonials = [
   },
 ];
 
-export default function Testimonials() {
+export default function Testimonia() {
   return (
     <section className="bg-gray-50 py-12 overflow-hidden">
       <h2 className="text-center text-3xl font-bold mb-8">Testimonials</h2>
