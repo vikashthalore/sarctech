@@ -10,7 +10,7 @@ import MarketingSection from './section/MarketingSection'
 import WhyUs from './section/WhyUs'
 import ContactSection from './section/ContactSection'
 import SeoSectio from './section/SeoSection'
-import Testimonials from './section/testimonia'
+import Testimonia from './section/Testimonia'
 import BlogSection from './section/BlogSection'
 import ContactsSection from './section/ContactsSection'
 const Home = () => {
@@ -27,7 +27,7 @@ const Home = () => {
       <WhyUs />
       <ContactSection />
       <SeoSectio />
-      <Testimonials />
+      <Testimonia />
       <BlogSection />
       <ContactsSection />
     </div>
